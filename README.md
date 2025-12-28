@@ -59,7 +59,7 @@ git init
 git add .
 git commit -m "Initial commit: AI Resume Screener"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/Resume-Screener-AI.git
+git remote add origin https://github.com/Skarangayake/Resume-Screener-AI.git
 git push -u origin main
 
 ## ▶️ Run the Project
