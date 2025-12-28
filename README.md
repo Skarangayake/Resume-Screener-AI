@@ -25,6 +25,17 @@ An AI-powered Resume Screening System that ranks resumes against a job descripti
 
 ---
 
+##  Web App
+The project includes a Streamlit-based web interface that allows recruiters to:
+- Paste job descriptions
+- Automatically rank resumes
+- View matched skills
+- Download ranked results as CSV
+
+
+
+---
+
 
 ---
 
