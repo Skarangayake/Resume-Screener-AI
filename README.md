@@ -67,7 +67,7 @@ AI-powered resume screening application built with **Streamlit & NLP**.
 ---
 
 ## Live Demo
- https://your-app-name.streamlit.app
+https://resume-screener-ai-zptqc7brkzfnhgcwk8p9jg.streamlit.app/
 
 ---
 
