@@ -1,0 +1,8 @@
+pandas
+numpy
+spacy
+sentence-transformers
+scikit-learn
+matplotlib
+PyMuPDF
+unidecode
