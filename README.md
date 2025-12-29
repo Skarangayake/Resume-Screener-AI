@@ -60,6 +60,27 @@ The project includes a Streamlit-based web interface that allows recruiters to:
 
 
 
+# AI Resume Screener
+
+AI-powered resume screening application built with **Streamlit & NLP**.
+
+---
+
+## Live Demo
+ https://your-app-name.streamlit.app
+
+---
+
+##  Application Interface
+The AI Resume Screener with clean and intuitive interface where users can enter or paste a job description and upload multiple resume files. The layout is designed for simplicity, allowing recruiters to quickly start the screening process with minimal steps.
+<img width="938" height="772" alt="Interface" src="https://github.com/user-attachments/assets/fa4a7121-38bc-43eb-87a8-e40addbe10eb" />
+
+
+##  Result Resumes
+After submitting the job description and resume files, the system processes the data and displays the screening results. The output shows which resumes are relevant to the job description along with matched skills, helping users understand how well each resume aligns with the job requirements.
+<img width="841" height="755" alt="Result 1" src="https://github.com/user-attachments/assets/c09467b9-b469-474a-be04-d613d5f46823" />
+
+<img width="617" height="679" alt="Result 2" src="https://github.com/user-attachments/assets/ff498680-16c4-4706-bc24-1c424930c98c" />
 
 #  PUSH CODE TO GITHUB (COMMANDS)
 
